@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://difanurrofi.github.io/notes-m1ejmj/sitemap.xml
